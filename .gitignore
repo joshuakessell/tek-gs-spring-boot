@@ -3,6 +3,7 @@
 .settings/
 target/
 .project
+.classpath
 
 ######################
 ######   Java   ######
