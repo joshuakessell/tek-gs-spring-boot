@@ -1,3 +1,9 @@
+# Custom #
+/.mvn/
+/.settings/
+/target/
+*.project
+
 ######################
 ######   Java   ######
 ######################
@@ -31,6 +37,7 @@ hs_err_pid*
 
 .gradle
 build/
+/gradle/
 
 # Ignore Gradle GUI config
 gradle-app.setting
