@@ -1,8 +1,8 @@
 # Custom #
-/.mvn/
-/.settings/
-/target/
-*.project
+.mvn/
+.settings/
+target/
+.project
 
 ######################
 ######   Java   ######
